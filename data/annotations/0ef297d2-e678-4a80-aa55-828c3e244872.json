@@ -176,43 +176,6 @@
         }
       ],
       "uuid": "015469de-b921-4972-8aa1-c4650c4f7490"
-    },
-    {
-      "start_time": 85,
-      "end_time": 92,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "so that they softly say:"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "esso—so—so—so"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Bishop laughter",
-          "category": "Reactions"
-        },
-        {
-          "tag": "Elizabeth Bishop",
-          "category": "Speaker"
-        },
-        {
-          "tag": "Audience laughter",
-          "category": "Reactions"
-        }
-      ],
-      "uuid": "483aaf29-c40c-4dd4-82a3-87679b1258b6"
     }
   ],
   "set": "Default",
