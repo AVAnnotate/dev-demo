@@ -3,10 +3,10 @@
   "created_at": "2024-10-25T14:45:23.689Z",
   "created_by": "absempere",
   "title": "Develop Demo",
-  "updated_at": "absempere",
-  "updated_by": "2024-10-25T14:45:23.689Z",
+  "updated_at": "2024-10-25T18:36:50.050Z",
+  "updated_by": "absempere",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
