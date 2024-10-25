@@ -1,0 +1,148 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "06377bf6-c8e5-4ca6-a709-16c5136c8158",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "end": 30,
+      "file": "45938c8e-f14c-478f-83de-db458e8274d2",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "3ea1fdef-fd65-43ab-9dbb-2b7c8fd4a73f",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "end": 30,
+      "file": "50b8099e-1259-4c6a-acbe-e4ab94c6b44e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "06377bf6-c8e5-4ca6-a709-16c5136c8158",
+        "end": 60,
+        "file": "45938c8e-f14c-478f-83de-db458e8274d2"
+      },
+      "event2": {
+        "uuid": "24eb2e8a-5bf3-429c-8aef-46aff87fb9fc",
+        "end": 60,
+        "file": "1a14640d-78a9-498f-b3c0-050108793d60"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "3ea1fdef-fd65-43ab-9dbb-2b7c8fd4a73f"
+      },
+      "event2": {
+        "uuid": "3ea1fdef-fd65-43ab-9dbb-2b7c8fd4a73f"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Clips of different types",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "clips-of-different-types",
+  "created_at": "2024-10-25T18:56:57.624Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-25T18:56:57.624Z",
+  "updated_by": "absempere"
+}
