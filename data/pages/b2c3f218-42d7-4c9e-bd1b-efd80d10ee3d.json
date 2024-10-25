@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The \"EdmontonPoets-Captions\" annotation set is applied to the video."
+        }
+      ]
+    }
+  ],
+  "title": "Imported Manifest with Captions",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "imported-manifest-with-captions",
+  "created_at": "2024-10-25T18:27:56.585Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-25T18:27:56.585Z",
+  "updated_by": "absempere"
+}
