@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "64a32a9d-4423-47bf-a7e3-1cab6d925e13": {
+      "label": "Version 2",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=_R00RKGvrD4",
+      "duration": 113
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Multi-AV Video Event",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Multi-AV Event"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-25T14:46:46.672Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-25T14:46:46.672Z",
+  "updated_by": "absempere"
+}

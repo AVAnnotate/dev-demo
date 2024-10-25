@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-25T14:46:46.870Z",
+  "created_by": "absempere",
+  "title": "Multi-AV Video Event",
+  "slug": "multi-av-video-event",
+  "updated_at": "2024-10-25T14:46:46.870Z",
+  "updated_by": "absempere",
+  "parent": "d77852d8-ed32-4f5d-8d91-9f194bbc6aff",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "629400e6-96d6-473d-b5a7-b45618ad1949"
+  }
+}
