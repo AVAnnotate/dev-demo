@@ -138,7 +138,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "."
+          "text": ""
         }
       ]
     },
@@ -186,7 +186,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "."
+          "text": ""
         }
       ]
     },
@@ -289,12 +289,12 @@
   ],
   "created_at": "2024-10-25T14:45:23.689Z",
   "created_by": "absempere",
-  "title": "Table of Contents",
-  "updated_at": "2024-10-28T17:43:35.559Z",
+  "title": "Introduction",
+  "updated_at": "2024-10-29T17:16:04.395Z",
   "updated_by": "absempere",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "table-of-contents"
+  "slug": "introduction"
 }
