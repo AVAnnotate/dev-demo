@@ -145,43 +145,6 @@
       "uuid": "4d890d99-16e2-4f4e-9e6c-18920c80e35d"
     },
     {
-      "start_time": 8,
-      "end_time": 14,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "to a disturbing, over-all"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "black translucency."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Be careful with that match!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Elizabeth Bishop",
-          "category": "Speaker"
-        }
-      ],
-      "uuid": "8c3ecc0e-162c-456a-85bd-6763cb9a2639"
-    },
-    {
       "start_time": 78,
       "end_time": 83,
       "annotation": [
