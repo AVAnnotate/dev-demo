@@ -75,43 +75,6 @@
       "uuid": "3ca219ca-9d78-43e9-9fc7-34de1c2829b1"
     },
     {
-      "start_time": 2,
-      "end_time": 8,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Oh, but it is dirty!"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "—this little filling station,"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "oil-soaked, oil-permeated"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Elizabeth Bishop",
-          "category": "Speaker"
-        }
-      ],
-      "uuid": "4d890d99-16e2-4f4e-9e6c-18920c80e35d"
-    },
-    {
       "start_time": 78,
       "end_time": 83,
       "annotation": [
