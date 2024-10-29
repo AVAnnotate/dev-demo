@@ -38,39 +38,6 @@
       "uuid": "34438778-01f9-4f51-9d5c-15351890a000"
     },
     {
-      "start_time": 78,
-      "end_time": 83,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somebody waters the plant,"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "or oils it, maybe. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Audience laughter",
-          "category": "Reactions"
-        },
-        {
-          "tag": "Elizabeth Bishop",
-          "category": "Speaker"
-        }
-      ],
-      "uuid": "837f7d2a-165c-40c2-90c7-25bd86dd3e13"
-    },
-    {
       "start_time": 85,
       "end_time": 92,
       "annotation": [
