@@ -7,12 +7,12 @@
   "users": [],
   "project": {
     "github_org": "AVAnnotate",
-    "title": "Develop Demo",
-    "description": "Testing every feature on develop",
+    "title": "Demo Project",
+    "description": "An AVAnnotate demo project",
     "language": "en",
     "slug": "dev-demo",
     "creator": "absempere",
-    "authors": "ABS",
+    "authors": "Anindita Basu Sempere",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -51,6 +51,9 @@
       ]
     },
     "created_at": "2024-10-25T14:45:23.647Z",
-    "updated_at": "2024-10-30T17:30:35.523Z"
-  }
+    "updated_at": "2024-10-30T17:31:16.897Z",
+    "is_private": false,
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
