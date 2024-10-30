@@ -4,7 +4,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following pages have individual video events."
+          "text": "The two video events have auto-generated pages. The "
+        },
+        {
+          "text": "first video event",
+          "link": "https://avannotate.github.io/dev-demo/events/elizabeth-bishop-reads-filling-station/"
+        },
+        {
+          "text": " has two annotation sets."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -17,6 +32,6 @@
   "slug": "video-events",
   "created_at": "2024-10-25T18:25:32.792Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-25T18:25:32.792Z",
+  "updated_at": "2024-10-30T19:55:07.161Z",
   "updated_by": "absempere"
 }
