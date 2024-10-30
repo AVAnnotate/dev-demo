@@ -4,7 +4,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The \"EdmontonPoets-Captions\" annotation set is applied to the video."
+          "text": "The \"EdmontonPoets-Captions\" annotation set is applied to the "
+        },
+        {
+          "text": "video",
+          "link": "https://avannotate.github.io/dev-demo/events/readings-and-discussion-featuring-ualberta-wr/"
+        },
+        {
+          "text": "."
         }
       ]
     }
@@ -17,6 +24,6 @@
   "slug": "imported-manifest-with-captions",
   "created_at": "2024-10-25T18:27:56.585Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-25T18:27:56.585Z",
+  "updated_at": "2024-10-30T19:57:33.304Z",
   "updated_by": "absempere"
 }
