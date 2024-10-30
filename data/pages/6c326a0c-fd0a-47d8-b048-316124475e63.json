@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following are pages with individual audio events."
+          "text": "There are two pages with single audio events. These pages are auto-generated."
         }
       ]
     }
@@ -17,6 +17,6 @@
   "slug": "audio-events",
   "created_at": "2024-10-25T18:24:16.404Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-25T18:24:16.404Z",
+  "updated_at": "2024-10-30T17:08:07.211Z",
   "updated_by": "absempere"
 }
