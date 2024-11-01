@@ -28,11 +28,11 @@
   "created_by": "absempere",
   "title": "Elizabeth Bishop reads \"Filling Station\" v2",
   "slug": "elizabeth-bishop-reads-filling-station-v2",
-  "updated_at": "2024-11-01T16:26:20.495Z",
+  "updated_at": "2024-11-01T16:36:14.610Z",
   "updated_by": "absempere",
   "parent": "32a7f76a-7095-4b4b-ae85-612781a4e838",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "c7810bb7-26cb-4701-939a-da6e44d67e6f"
   }
