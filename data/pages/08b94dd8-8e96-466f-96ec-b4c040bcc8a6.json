@@ -61,7 +61,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is a single video clip (0-30 seconds)"
+          "text": "This is a single video clip (30-45 seconds)"
         }
       ]
     },
@@ -82,13 +82,14 @@
         "label",
         "description"
       ],
-      "end": 30,
+      "end": 45,
       "file": "50b8099e-1259-4c6a-acbe-e4ab94c6b44e",
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "start": 30
     },
     {
       "type": "paragraph",
@@ -199,6 +200,6 @@
   "slug": "clips-of-different-types",
   "created_at": "2024-10-25T18:56:57.624Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-30T19:57:55.255Z",
+  "updated_at": "2024-11-11T21:46:04.135Z",
   "updated_by": "absempere"
 }
