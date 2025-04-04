@@ -1,0 +1,297 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testing out the RTE."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Elizabeth Bishop’s Queer Phenomenology",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Anindita Basu Sempere"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In Queer Phenomenology, Sara Ahmed describes how the language of direction intersects with sexual orientation. She begins with a paradox: “In order to become orientated, you might suppose that we must first experience disorientation. When we are orientated, we might not even notice that we are orientated: we might not even think ‘to think’ about this point.”  Ahmed’s depiction of orientation implies that disorientation – and thus awareness of orientation – is a part of queer experience; queerness is, by definition, at odds with societal defaults, resulting in constant reminders of difference and pressure to conform."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\tAhmed’s observation offers a fresh way to interpret both Bishop’s frequent displacements and the often-elliptical nature of her writing. In addition to the elision and evasiveness in Bishop’s poetic compositions that have been identified as a kind of queer poetics, the lack of resolution in her poems demonstrates queer reorientation. In this paper, I will discuss “The Riverman” and “Song for the Rainy Season” and the unfinished manuscript draft of “On the Amazon” and show that when faced with choices in her poems, Bishop rejects binaries altogether. Instead, she reorients away from prescribed dichotomies by embracing hybridity, porousness, and dissolution. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "table-of-contents",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://assets.vogue.com/photos/5891fac4153ededd21da5647/master/w_2240,c_limit/1-holding-elizabethbishop_181856363771.jpg",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Elizabeth Bishop and Tobias the cat",
+                  "italic": true
+                },
+                {
+                  "text": " ("
+                },
+                {
+                  "text": "image source",
+                  "link": "https://www.theguardian.com/books/booksblog/2011/feb/08/elizabeth-bishop-centenary"
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Table of Contents above can be added to any custom page via a component."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The embedded images are at medium and thumbnail sizes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://www.theparisreview.org/il/5d1c069175/large/BishopElizabethcAliceHelenMethfesselcourtesyofFrankBidart.png",
+              "size": "thumbnail",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "text": "\"All the untidy activity continues,"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "awful but cheerful.\""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "-- The Bight"
+                }
+              ],
+              "align": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Test",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test",
+  "created_at": "2025-04-04T18:27:47.829Z",
+  "created_by": "absempere",
+  "updated_at": "2025-04-04T18:27:47.829Z",
+  "updated_by": "absempere"
+}
