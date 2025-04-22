@@ -172,10 +172,10 @@
         "description"
       ],
       "event1": {
-        "uuid": "3ea1fdef-fd65-43ab-9dbb-2b7c8fd4a73f"
+        "uuid": "629400e6-96d6-473d-b5a7-b45618ad1949"
       },
       "event2": {
-        "uuid": "c7810bb7-26cb-4701-939a-da6e44d67e6f"
+        "uuid": "9db46576-e158-4e81-9421-0f7b897eb77b"
       },
       "children": [
         {
@@ -200,6 +200,6 @@
   "slug": "clips-of-different-types",
   "created_at": "2024-10-25T18:56:57.624Z",
   "created_by": "absempere",
-  "updated_at": "2024-11-11T21:46:04.135Z",
+  "updated_at": "2025-04-22T17:09:24.900Z",
   "updated_by": "absempere"
 }
