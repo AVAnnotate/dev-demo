@@ -74,13 +74,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "3ea1fdef-fd65-43ab-9dbb-2b7c8fd4a73f",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "media"
       ],
       "end": 45,
       "file": "50b8099e-1259-4c6a-acbe-e4ab94c6b44e",
@@ -200,6 +196,6 @@
   "slug": "clips-of-different-types",
   "created_at": "2024-10-25T18:56:57.624Z",
   "created_by": "absempere",
-  "updated_at": "2025-04-22T17:09:24.900Z",
+  "updated_at": "2025-07-08T18:36:58.739Z",
   "updated_by": "absempere"
 }
