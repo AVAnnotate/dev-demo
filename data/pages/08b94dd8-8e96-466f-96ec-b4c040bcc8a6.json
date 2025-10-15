@@ -95,14 +95,15 @@
         "label",
         "description"
       ],
-      "end": 30,
+      "end": 45,
       "file": "50b8099e-1259-4c6a-acbe-e4ab94c6b44e",
       "type": "event",
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "start": 30
     },
     {
       "type": "paragraph",
@@ -221,6 +222,6 @@
   "slug": "clips-of-different-types",
   "created_at": "2024-10-25T18:56:57.624Z",
   "created_by": "absempere",
-  "updated_at": "2025-10-15T19:44:34.727Z",
+  "updated_at": "2025-10-15T19:46:25.914Z",
   "updated_by": "absempere"
 }
